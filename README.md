@@ -1,2 +1,2 @@
-# vider
+# viber
 Viber redirect
